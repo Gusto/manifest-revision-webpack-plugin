@@ -1,5 +1,8 @@
 [![Build Status](https://secure.travis-ci.org/nickjj/manifest-revision-webpack-plugin.png)](http://travis-ci.org/nickjj/manifest-revision-webpack-plugin)
 
+#### Reason for Gusto fork
+Support for Webpack 4
+
 ## Manifest revision plugin for webpack
 
 Wouldn't it be neat if you could just supply a directory path, install a plugin
